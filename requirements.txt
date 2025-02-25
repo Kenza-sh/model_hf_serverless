@@ -1,4 +1,6 @@
 azure-functions
+pandas
+numpy
 transformers
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.13.0+cpu
